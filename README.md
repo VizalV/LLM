@@ -18,14 +18,7 @@ I've also made vidoes explaining each notebook.
 - **OpenAI_Agents_SDK.ipynb** - Working with OpenAI's agent framework and SDK
 - **openai_api_demo.ipynb** - Practical examples using OpenAI's API for various NLP tasks
 
-## 🎯 Who This Is For
-
-- **Students** learning about natural language processing and transformer models
-- **Developers** looking to integrate LLMs into their applications
-- **Researchers** exploring different approaches to language model training and fine-tuning
-- **Anyone** curious about how modern AI language systems work
-
-## 📋 Prerequisites
+## Prerequisites
 
 - Basic understanding of Python and machine learning concepts
 - Familiarity with Jupyter notebooks
